@@ -3,7 +3,7 @@
 ## 🌟 Giới thiệu
 
 -   🎓 **Học vấn**: Học công nghệ thông tin tại Đại học Thủy lợi
--   💼 **Kinh nghiệm**: 1.5 năm kinh nghiệm làm backend với nodejs
+-   💼 **Kinh nghiệm**: 1.5 năm kinh nghiệm làm backend với nodejs và frontend reactjs
 -   🌱 **Đang học**: golang, java
 -   ***
 
